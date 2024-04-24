@@ -1,0 +1,2 @@
+read -r x
+echo -n "$x" | xclip -selection clipboard
